@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: page
 title: Yunfei1982
 tagline: my open source projects
 ---
