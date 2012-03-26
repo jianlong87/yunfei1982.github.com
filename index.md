@@ -13,7 +13,7 @@ tagline: my open source projects
 
 ## Python Chat
 
-[view](Python-Chat/)
+[view](https://github.com/Yunfei1982/Python-Chat)
 
 
 ## Posts List
