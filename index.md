@@ -1,11 +1,17 @@
 ---
 layout: page
-title: Yunfei1982 Homepage
-tagline: jekyll blog
+title: Yunfei1982
+tagline: my open source projects
 ---
 {% include JB/setup %}
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+## Python Chat
+
+[view](Python-Chat/)
+
+## My Contacts
+
+[view](mycontacts/)
 
 ## Update Author Attributes
 
