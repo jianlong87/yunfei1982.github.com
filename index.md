@@ -7,7 +7,7 @@ tagline: my open source projects
 
 
 <div class="page-header">
-<h1><small>面朝大海 春暖花开</small></h1>
+<h1><small>mianchaodahai chunnuanhuakai</small></h1>
 </div>
 
 <div class="row">
