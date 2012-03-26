@@ -6,14 +6,17 @@ tagline: my open source projects
 {% include JB/setup %}
 
 
+
 ## My Contacts
 
 [view](mycontacts/)
 
 
+
 ## Python Chat
 
 [view](https://github.com/Yunfei1982/Python-Chat)
+
 
 
 ## Posts List
