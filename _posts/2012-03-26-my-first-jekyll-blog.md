@@ -2,7 +2,6 @@
 layout: post
 category :
 tags : [jekyll]
-tagline: test
 ---
 {% include JB/setup %}
 
