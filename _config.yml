@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Yunfei1982's homepage
-tagline: Site Tagline
+tagline:
 author :
   name : Yunfei1982
   email : yunfei.1982@gmail.com
@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : yunfei1982
     livefyre :
       site_id : 123
     intensedebate :
